@@ -14,7 +14,7 @@
 代码运行要提取配置sql库
 将Mathorcup的物流项目数据提前写进sql库，网址为https://www.saikr.com/c/nd/34795 
 
-                      关联列表                                                                                                                                                     
+                                                                                                                                                                         
  架构模式 |          名称          |  类型  | 拥有者
 ----------+------------------------+--------+--------
  public   | agent_decision_log     | 数据表 | myuser
