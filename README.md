@@ -32,7 +32,28 @@
  public   | shipments              | 数据表 | myuser                                                                                                                               
  public   | shipments2             | 数据表 | myuser 
 
-每个库为一下结构
+
+
+
+
+
+
+
+
+
+
+以下为库结构
+
+
+
+
+
+
+
+
+
+
+
  table_schema |       table_name       |           column_name           |          data_type          | is_nullable |                      column_default                         
 --------------+------------------------+---------------------------------+-----------------------------+-------------+-----------------------------------------------------------   
  public       | agent_decision_log     | id                              | integer                     | NO          | nextval('agent_decision_log_id_seq'::regclass)
